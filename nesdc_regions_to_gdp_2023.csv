@@ -1,0 +1,417 @@
+﻿region,sector,price_type,year,value_million_thb
+Northeastern,Agriculture,current_market_prices,2023,378954.605
+Northern,Agriculture,current_market_prices,2023,345979.43
+Southern,Agriculture,current_market_prices,2023,349977.183
+Eastern,Agriculture,current_market_prices,2023,197368.551
+Western,Agriculture,current_market_prices,2023,148033.427
+Central,Agriculture,current_market_prices,2023,69129.886
+Bangkok & Vicinities,Agriculture,current_market_prices,2023,47974.919
+Whole Kingdom,Agriculture,current_market_prices,2023,1537418.0
+Northeastern,"Agriculture, forestry and fishing",current_market_prices,2023,378954.605
+Northern,"Agriculture, forestry and fishing",current_market_prices,2023,345979.43
+Southern,"Agriculture, forestry and fishing",current_market_prices,2023,349977.183
+Eastern,"Agriculture, forestry and fishing",current_market_prices,2023,197368.551
+Western,"Agriculture, forestry and fishing",current_market_prices,2023,148033.427
+Central,"Agriculture, forestry and fishing",current_market_prices,2023,69129.886
+Bangkok & Vicinities,"Agriculture, forestry and fishing",current_market_prices,2023,47974.919
+Whole Kingdom,"Agriculture, forestry and fishing",current_market_prices,2023,1537418.0
+Northeastern,Non-Agriculture,current_market_prices,2023,1429458.631
+Northern,Non-Agriculture,current_market_prices,2023,1044883.815
+Southern,Non-Agriculture,current_market_prices,2023,1087613.862
+Eastern,Non-Agriculture,current_market_prices,2023,3031693.324
+Western,Non-Agriculture,current_market_prices,2023,488835.767
+Central,Non-Agriculture,current_market_prices,2023,812559.404
+Bangkok & Vicinities,Non-Agriculture,current_market_prices,2023,8522204.196
+Whole Kingdom,Non-Agriculture,current_market_prices,2023,16417248.999
+Northeastern,Industrial,current_market_prices,2023,386347.081
+Northern,Industrial,current_market_prices,2023,285065.677
+Southern,Industrial,current_market_prices,2023,238876.918
+Eastern,Industrial,current_market_prices,2023,2035527.187
+Western,Industrial,current_market_prices,2023,181814.516
+Central,Industrial,current_market_prices,2023,499404.429
+Bangkok & Vicinities,Industrial,current_market_prices,2023,1854802.192
+Whole Kingdom,Industrial,current_market_prices,2023,5481837.999
+Northeastern,Mining and quarrying,current_market_prices,2023,17478.996
+Northern,Mining and quarrying,current_market_prices,2023,44595.837
+Southern,Mining and quarrying,current_market_prices,2023,43095.838
+Eastern,Mining and quarrying,current_market_prices,2023,211253.559
+Western,Mining and quarrying,current_market_prices,2023,12079.792
+Central,Mining and quarrying,current_market_prices,2023,19368.311
+Bangkok & Vicinities,Mining and quarrying,current_market_prices,2023,4046.667
+Whole Kingdom,Mining and quarrying,current_market_prices,2023,351919.0
+Northeastern,Manufacturing,current_market_prices,2023,308847.112
+Northern,Manufacturing,current_market_prices,2023,201140.924
+Southern,Manufacturing,current_market_prices,2023,149195.419
+Eastern,Manufacturing,current_market_prices,2023,1595933.5
+Western,Manufacturing,current_market_prices,2023,122904.62
+Central,Manufacturing,current_market_prices,2023,404394.447
+Bangkok & Vicinities,Manufacturing,current_market_prices,2023,1702530.977
+Whole Kingdom,Manufacturing,current_market_prices,2023,4484946.999
+Northeastern,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,52449.787
+Northern,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,32421.049
+Southern,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,42862.391
+Eastern,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,204946.301
+Western,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,44546.593
+Central,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,72852.931
+Bangkok & Vicinities,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,115541.948
+Whole Kingdom,"Electricity, gas, steam and air conditioning supply",current_market_prices,2023,565621.0
+Northeastern,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,7571.185
+Northern,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,6907.867
+Southern,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,3723.269
+Eastern,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,23393.828
+Western,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,2283.51
+Central,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,2788.74
+Bangkok & Vicinities,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,32682.601
+Whole Kingdom,"Water supply; sewerage, waste management 
+and remediation activities",current_market_prices,2023,79351.0
+Northeastern,Services,current_market_prices,2023,1043111.55
+Northern,Services,current_market_prices,2023,759818.138
+Southern,Services,current_market_prices,2023,848736.944
+Eastern,Services,current_market_prices,2023,996166.136
+Western,Services,current_market_prices,2023,307021.252
+Central,Services,current_market_prices,2023,313154.975
+Bangkok & Vicinities,Services,current_market_prices,2023,6667402.004
+Whole Kingdom,Services,current_market_prices,2023,10935411.0
+Northeastern,Construction,current_market_prices,2023,74187.899
+Northern,Construction,current_market_prices,2023,52537.651
+Southern,Construction,current_market_prices,2023,55784.986
+Eastern,Construction,current_market_prices,2023,57523.917
+Western,Construction,current_market_prices,2023,25427.015
+Central,Construction,current_market_prices,2023,16792.558
+Bangkok & Vicinities,Construction,current_market_prices,2023,157430.973
+Whole Kingdom,Construction,current_market_prices,2023,439685.0
+Northeastern,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,226591.009
+Northern,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,176245.333
+Southern,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,155981.217
+Eastern,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,351227.926
+Western,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,76048.337
+Central,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,95020.232
+Bangkok & Vicinities,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,1752819.947
+Whole Kingdom,Wholesale and retail trade and repair of motor vehicles and motorcycle,current_market_prices,2023,2833934.0
+Northeastern,Transportation and storage,current_market_prices,2023,49790.611
+Northern,Transportation and storage,current_market_prices,2023,36614.133
+Southern,Transportation and storage,current_market_prices,2023,81450.99
+Eastern,Transportation and storage,current_market_prices,2023,132174.032
+Western,Transportation and storage,current_market_prices,2023,22657.448
+Central,Transportation and storage,current_market_prices,2023,35165.094
+Bangkok & Vicinities,Transportation and storage,current_market_prices,2023,541434.693
+Whole Kingdom,Transportation and storage,current_market_prices,2023,899287.0
+Northeastern,Accommodation and food service activities,current_market_prices,2023,21816.08
+Northern,Accommodation and food service activities,current_market_prices,2023,33840.75
+Southern,Accommodation and food service activities,current_market_prices,2023,135818.129
+Eastern,Accommodation and food service activities,current_market_prices,2023,91607.049
+Western,Accommodation and food service activities,current_market_prices,2023,26380.372
+Central,Accommodation and food service activities,current_market_prices,2023,6761.784
+Bangkok & Vicinities,Accommodation and food service activities,current_market_prices,2023,642534.837
+Whole Kingdom,Accommodation and food service activities,current_market_prices,2023,958759.0
+Northeastern,Information and communication,current_market_prices,2023,13240.926
+Northern,Information and communication,current_market_prices,2023,12754.515
+Southern,Information and communication,current_market_prices,2023,13911.632
+Eastern,Information and communication,current_market_prices,2023,13213.12
+Western,Information and communication,current_market_prices,2023,4434.812
+Central,Information and communication,current_market_prices,2023,4005.991
+Bangkok & Vicinities,Information and communication,current_market_prices,2023,444634.004
+Whole Kingdom,Information and communication,current_market_prices,2023,506195.0
+Northeastern,Financial and insurance activities,current_market_prices,2023,152169.804
+Northern,Financial and insurance activities,current_market_prices,2023,105278.514
+Southern,Financial and insurance activities,current_market_prices,2023,97149.207
+Eastern,Financial and insurance activities,current_market_prices,2023,96404.185
+Western,Financial and insurance activities,current_market_prices,2023,35670.614
+Central,Financial and insurance activities,current_market_prices,2023,33097.21
+Bangkok & Vicinities,Financial and insurance activities,current_market_prices,2023,1073119.465
+Whole Kingdom,Financial and insurance activities,current_market_prices,2023,1592889.0
+Northeastern,Real estate activities,current_market_prices,2023,78093.224
+Northern,Real estate activities,current_market_prices,2023,54313.746
+Southern,Real estate activities,current_market_prices,2023,50488.801
+Eastern,Real estate activities,current_market_prices,2023,47303.808
+Western,Real estate activities,current_market_prices,2023,20764.263
+Central,Real estate activities,current_market_prices,2023,17889.015
+Bangkok & Vicinities,Real estate activities,current_market_prices,2023,189609.144
+Whole Kingdom,Real estate activities,current_market_prices,2023,458462.0
+Northeastern,"Professional, scientific and technical activities",current_market_prices,2023,1381.037
+Northern,"Professional, scientific and technical activities",current_market_prices,2023,2374.441
+Southern,"Professional, scientific and technical activities",current_market_prices,2023,2923.789
+Eastern,"Professional, scientific and technical activities",current_market_prices,2023,8413.713
+Western,"Professional, scientific and technical activities",current_market_prices,2023,669.864
+Central,"Professional, scientific and technical activities",current_market_prices,2023,11188.002
+Bangkok & Vicinities,"Professional, scientific and technical activities",current_market_prices,2023,279992.155
+Whole Kingdom,"Professional, scientific and technical activities",current_market_prices,2023,306943.0
+Northeastern,Administrative and support service activities,current_market_prices,2023,5042.632
+Northern,Administrative and support service activities,current_market_prices,2023,5780.624
+Southern,Administrative and support service activities,current_market_prices,2023,11096.415
+Eastern,Administrative and support service activities,current_market_prices,2023,21093.924
+Western,Administrative and support service activities,current_market_prices,2023,3683.811
+Central,Administrative and support service activities,current_market_prices,2023,4505.71
+Bangkok & Vicinities,Administrative and support service activities,current_market_prices,2023,187895.884
+Whole Kingdom,Administrative and support service activities,current_market_prices,2023,239099.0
+Northeastern,Public administration and defence; compulsory social security,current_market_prices,2023,90753.367
+Northern,Public administration and defence; compulsory social security,current_market_prices,2023,74423.054
+Southern,Public administration and defence; compulsory social security,current_market_prices,2023,82401.22
+Eastern,Public administration and defence; compulsory social security,current_market_prices,2023,79313.969
+Western,Public administration and defence; compulsory social security,current_market_prices,2023,34076.929
+Central,Public administration and defence; compulsory social security,current_market_prices,2023,40023.426
+Bangkok & Vicinities,Public administration and defence; compulsory social security,current_market_prices,2023,703590.036
+Whole Kingdom,Public administration and defence; compulsory social security,current_market_prices,2023,1104582.0
+Northeastern,Education,current_market_prices,2023,227511.666
+Northern,Education,current_market_prices,2023,125967.558
+Southern,Education,current_market_prices,2023,98486.945
+Eastern,Education,current_market_prices,2023,43233.259
+Western,Education,current_market_prices,2023,32302.037
+Central,Education,current_market_prices,2023,24259.69
+Bangkok & Vicinities,Education,current_market_prices,2023,205568.845
+Whole Kingdom,Education,current_market_prices,2023,757330.0
+Northeastern,Human health and social work activities,current_market_prices,2023,77114.935
+Northern,Human health and social work activities,current_market_prices,2023,60260.085
+Southern,Human health and social work activities,current_market_prices,2023,49958.003
+Eastern,Human health and social work activities,current_market_prices,2023,36459.669
+Western,Human health and social work activities,current_market_prices,2023,18172.244
+Central,Human health and social work activities,current_market_prices,2023,16999.909
+Bangkok & Vicinities,Human health and social work activities,current_market_prices,2023,213907.156
+Whole Kingdom,Human health and social work activities,current_market_prices,2023,472872.0
+Northeastern,"Arts, entertainment and recreation",current_market_prices,2023,8997.324
+Northern,"Arts, entertainment and recreation",current_market_prices,2023,6732.482
+Southern,"Arts, entertainment and recreation",current_market_prices,2023,3346.586
+Eastern,"Arts, entertainment and recreation",current_market_prices,2023,3261.239
+Western,"Arts, entertainment and recreation",current_market_prices,2023,3130.382
+Central,"Arts, entertainment and recreation",current_market_prices,2023,2120.702
+Bangkok & Vicinities,"Arts, entertainment and recreation",current_market_prices,2023,90660.284
+Whole Kingdom,"Arts, entertainment and recreation",current_market_prices,2023,118249.0
+Northeastern,Other service activities,current_market_prices,2023,16421.036
+Northern,Other service activities,current_market_prices,2023,12695.252
+Southern,Other service activities,current_market_prices,2023,9939.024
+Eastern,Other service activities,current_market_prices,2023,14936.328
+Western,Other service activities,current_market_prices,2023,3603.124
+Central,Other service activities,current_market_prices,2023,5325.653
+Bangkok & Vicinities,Other service activities,current_market_prices,2023,184204.582
+Whole Kingdom,Other service activities,current_market_prices,2023,247125.0
+Northeastern,GRP and GDP,current_market_prices,2023,1808413.236
+Northern,GRP and GDP,current_market_prices,2023,1390863.244
+Southern,GRP and GDP,current_market_prices,2023,1437591.045
+Eastern,GRP and GDP,current_market_prices,2023,3229061.875
+Western,GRP and GDP,current_market_prices,2023,636869.194
+Central,GRP and GDP,current_market_prices,2023,881689.29
+Bangkok & Vicinities,GRP and GDP,current_market_prices,2023,8570179.115
+Whole Kingdom,GRP and GDP,current_market_prices,2023,17954666.999
+Northeastern,GRP and GDP Per capita (Baht),current_market_prices,2023,99270.742
+Northern,GRP and GDP Per capita (Baht),current_market_prices,2023,124552.15
+Southern,GRP and GDP Per capita (Baht),current_market_prices,2023,146831.657
+Eastern,GRP and GDP Per capita (Baht),current_market_prices,2023,496846.53
+Western,GRP and GDP Per capita (Baht),current_market_prices,2023,174207.268
+Central,GRP and GDP Per capita (Baht),current_market_prices,2023,278249.682
+Bangkok & Vicinities,GRP and GDP Per capita (Baht),current_market_prices,2023,488533.554
+Whole Kingdom,GRP and GDP Per capita (Baht),current_market_prices,2023,256345.369
+Northeastern,"Population (1,000 persons)",current_market_prices,2023,18216.981
+Northern,"Population (1,000 persons)",current_market_prices,2023,11166.915
+Southern,"Population (1,000 persons)",current_market_prices,2023,9790.743
+Eastern,"Population (1,000 persons)",current_market_prices,2023,6499.113
+Western,"Population (1,000 persons)",current_market_prices,2023,3655.813
+Central,"Population (1,000 persons)",current_market_prices,2023,3168.698
+Bangkok & Vicinities,"Population (1,000 persons)",current_market_prices,2023,17542.662
+Whole Kingdom,"Population (1,000 persons)",current_market_prices,2023,70040.926
+Northeastern,Agriculture,chain_volume_measures_ref2002,2023,172330.081
+Northern,Agriculture,chain_volume_measures_ref2002,2023,121046.544
+Southern,Agriculture,chain_volume_measures_ref2002,2023,188040.934
+Eastern,Agriculture,chain_volume_measures_ref2002,2023,91113.09
+Western,Agriculture,chain_volume_measures_ref2002,2023,62600.143
+Central,Agriculture,chain_volume_measures_ref2002,2023,28449.647
+Bangkok & Vicinities,Agriculture,chain_volume_measures_ref2002,2023,27548.966
+Whole Kingdom,Agriculture,chain_volume_measures_ref2002,2023,693717.396
+Northeastern,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,172330.081
+Northern,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,121046.544
+Southern,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,188040.934
+Eastern,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,91113.09
+Western,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,62600.143
+Central,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,28449.647
+Bangkok & Vicinities,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,27548.966
+Whole Kingdom,"Agriculture, forestry and fishing",chain_volume_measures_ref2002,2023,693717.396
+Northeastern,Non-Agriculture,chain_volume_measures_ref2002,2023,837540.538
+Northern,Non-Agriculture,chain_volume_measures_ref2002,2023,610740.639
+Southern,Non-Agriculture,chain_volume_measures_ref2002,2023,631076.313
+Eastern,Non-Agriculture,chain_volume_measures_ref2002,2023,1712526.477
+Western,Non-Agriculture,chain_volume_measures_ref2002,2023,276284.453
+Central,Non-Agriculture,chain_volume_measures_ref2002,2023,536976.482
+Bangkok & Vicinities,Non-Agriculture,chain_volume_measures_ref2002,2023,5711007.693
+Whole Kingdom,Non-Agriculture,chain_volume_measures_ref2002,2023,10289883.771
+Northeastern,Industrial,chain_volume_measures_ref2002,2023,232294.874
+Northern,Industrial,chain_volume_measures_ref2002,2023,169170.832
+Southern,Industrial,chain_volume_measures_ref2002,2023,131042.437
+Eastern,Industrial,chain_volume_measures_ref2002,2023,1120868.555
+Western,Industrial,chain_volume_measures_ref2002,2023,100732.901
+Central,Industrial,chain_volume_measures_ref2002,2023,346805.795
+Bangkok & Vicinities,Industrial,chain_volume_measures_ref2002,2023,1228677.616
+Whole Kingdom,Industrial,chain_volume_measures_ref2002,2023,3350478.84
+Northeastern,Mining and quarrying,chain_volume_measures_ref2002,2023,8102.269
+Northern,Mining and quarrying,chain_volume_measures_ref2002,2023,19867.955
+Southern,Mining and quarrying,chain_volume_measures_ref2002,2023,27537.204
+Eastern,Mining and quarrying,chain_volume_measures_ref2002,2023,103846.428
+Western,Mining and quarrying,chain_volume_measures_ref2002,2023,5154.843
+Central,Mining and quarrying,chain_volume_measures_ref2002,2023,8634.796
+Bangkok & Vicinities,Mining and quarrying,chain_volume_measures_ref2002,2023,2211.178
+Whole Kingdom,Mining and quarrying,chain_volume_measures_ref2002,2023,173791.367
+Northeastern,Manufacturing,chain_volume_measures_ref2002,2023,187314.576
+Northern,Manufacturing,chain_volume_measures_ref2002,2023,125788.667
+Southern,Manufacturing,chain_volume_measures_ref2002,2023,77008.938
+Eastern,Manufacturing,chain_volume_measures_ref2002,2023,904345.54
+Western,Manufacturing,chain_volume_measures_ref2002,2023,78756.99
+Central,Manufacturing,chain_volume_measures_ref2002,2023,299586.177
+Bangkok & Vicinities,Manufacturing,chain_volume_measures_ref2002,2023,1121585.971
+Whole Kingdom,Manufacturing,chain_volume_measures_ref2002,2023,2815917.145
+Northeastern,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,38716.498
+Northern,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,23816.751
+Southern,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,26354.094
+Eastern,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,100455.039
+Western,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,17971.406
+Central,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,35044.217
+Bangkok & Vicinities,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,76776.469
+Whole Kingdom,"Electricity, gas, steam and air conditioning supply",chain_volume_measures_ref2002,2023,310030.407
+Northeastern,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,4366.715
+Northern,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,4052.932
+Southern,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,2192.133
+Eastern,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,15352.586
+Western,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,1311.916
+Central,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,1672.102
+Bangkok & Vicinities,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,31034.555
+Whole Kingdom,"Water supply; sewerage, waste management 
+and remediation activities",chain_volume_measures_ref2002,2023,64134.299
+Northeastern,Services,chain_volume_measures_ref2002,2023,603019.983
+Northern,Services,chain_volume_measures_ref2002,2023,442301.83
+Southern,Services,chain_volume_measures_ref2002,2023,504646.56
+Eastern,Services,chain_volume_measures_ref2002,2023,599728.479
+Western,Services,chain_volume_measures_ref2002,2023,174930.237
+Central,Services,chain_volume_measures_ref2002,2023,188991.541
+Bangkok & Vicinities,Services,chain_volume_measures_ref2002,2023,4502120.53
+Whole Kingdom,Services,chain_volume_measures_ref2002,2023,6982329.543
+Northeastern,Construction,chain_volume_measures_ref2002,2023,49209.362
+Northern,Construction,chain_volume_measures_ref2002,2023,34891.932
+Southern,Construction,chain_volume_measures_ref2002,2023,37576.878
+Eastern,Construction,chain_volume_measures_ref2002,2023,38703.103
+Western,Construction,chain_volume_measures_ref2002,2023,16905.27
+Central,Construction,chain_volume_measures_ref2002,2023,11333.32
+Bangkok & Vicinities,Construction,chain_volume_measures_ref2002,2023,104741.265
+Whole Kingdom,Construction,chain_volume_measures_ref2002,2023,293520.505
+Northeastern,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,123366.87
+Northern,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,91906.355
+Southern,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,76541.724
+Eastern,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,197341.783
+Western,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,38544.185
+Central,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,52555.964
+Bangkok & Vicinities,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,1209947.159
+Whole Kingdom,Wholesale and retail trade and repair of motor vehicles and motorcycle,chain_volume_measures_ref2002,2023,1772249.984
+Northeastern,Transportation and storage,chain_volume_measures_ref2002,2023,30436.571
+Northern,Transportation and storage,chain_volume_measures_ref2002,2023,23885.06
+Southern,Transportation and storage,chain_volume_measures_ref2002,2023,56057.714
+Eastern,Transportation and storage,chain_volume_measures_ref2002,2023,86651.286
+Western,Transportation and storage,chain_volume_measures_ref2002,2023,9715.058
+Central,Transportation and storage,chain_volume_measures_ref2002,2023,19096.855
+Bangkok & Vicinities,Transportation and storage,chain_volume_measures_ref2002,2023,422790.348
+Whole Kingdom,Transportation and storage,chain_volume_measures_ref2002,2023,655875.353
+Northeastern,Accommodation and food service activities,chain_volume_measures_ref2002,2023,15248.78
+Northern,Accommodation and food service activities,chain_volume_measures_ref2002,2023,23939.345
+Southern,Accommodation and food service activities,chain_volume_measures_ref2002,2023,113709.451
+Eastern,Accommodation and food service activities,chain_volume_measures_ref2002,2023,61845.8
+Western,Accommodation and food service activities,chain_volume_measures_ref2002,2023,20824.368
+Central,Accommodation and food service activities,chain_volume_measures_ref2002,2023,3983.828
+Bangkok & Vicinities,Accommodation and food service activities,chain_volume_measures_ref2002,2023,367685.165
+Whole Kingdom,Accommodation and food service activities,chain_volume_measures_ref2002,2023,601780.482
+Northeastern,Information and communication,chain_volume_measures_ref2002,2023,17572.101
+Northern,Information and communication,chain_volume_measures_ref2002,2023,16478.348
+Southern,Information and communication,chain_volume_measures_ref2002,2023,18784.675
+Eastern,Information and communication,chain_volume_measures_ref2002,2023,16875.646
+Western,Information and communication,chain_volume_measures_ref2002,2023,6202.007
+Central,Information and communication,chain_volume_measures_ref2002,2023,5642.005
+Bangkok & Vicinities,Information and communication,chain_volume_measures_ref2002,2023,627241.597
+Whole Kingdom,Information and communication,chain_volume_measures_ref2002,2023,703983.146
+Northeastern,Financial and insurance activities,chain_volume_measures_ref2002,2023,88668.184
+Northern,Financial and insurance activities,chain_volume_measures_ref2002,2023,59579.461
+Southern,Financial and insurance activities,chain_volume_measures_ref2002,2023,53337.613
+Eastern,Financial and insurance activities,chain_volume_measures_ref2002,2023,52761.642
+Western,Financial and insurance activities,chain_volume_measures_ref2002,2023,19830.484
+Central,Financial and insurance activities,chain_volume_measures_ref2002,2023,18702.82
+Bangkok & Vicinities,Financial and insurance activities,chain_volume_measures_ref2002,2023,574627.516
+Whole Kingdom,Financial and insurance activities,chain_volume_measures_ref2002,2023,866174.04
+Northeastern,Real estate activities,chain_volume_measures_ref2002,2023,80530.786
+Northern,Real estate activities,chain_volume_measures_ref2002,2023,55413.146
+Southern,Real estate activities,chain_volume_measures_ref2002,2023,51552.609
+Eastern,Real estate activities,chain_volume_measures_ref2002,2023,47050.513
+Western,Real estate activities,chain_volume_measures_ref2002,2023,21200.033
+Central,Real estate activities,chain_volume_measures_ref2002,2023,18242.255
+Bangkok & Vicinities,Real estate activities,chain_volume_measures_ref2002,2023,187141.639
+Whole Kingdom,Real estate activities,chain_volume_measures_ref2002,2023,461887.233
+Northeastern,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,1022.61
+Northern,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,1806.169
+Southern,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,1990.034
+Eastern,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,5570.854
+Western,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,496.503
+Central,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,15680.818
+Bangkok & Vicinities,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,183402.61
+Whole Kingdom,"Professional, scientific and technical activities",chain_volume_measures_ref2002,2023,208626.976
+Northeastern,Administrative and support service activities,chain_volume_measures_ref2002,2023,2911.732
+Northern,Administrative and support service activities,chain_volume_measures_ref2002,2023,3370.008
+Southern,Administrative and support service activities,chain_volume_measures_ref2002,2023,6155.151
+Eastern,Administrative and support service activities,chain_volume_measures_ref2002,2023,12986.15
+Western,Administrative and support service activities,chain_volume_measures_ref2002,2023,2061.432
+Central,Administrative and support service activities,chain_volume_measures_ref2002,2023,2815.059
+Bangkok & Vicinities,Administrative and support service activities,chain_volume_measures_ref2002,2023,121719.084
+Whole Kingdom,Administrative and support service activities,chain_volume_measures_ref2002,2023,151926.686
+Northeastern,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,44132.069
+Northern,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,36190.87
+Southern,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,40070.54
+Eastern,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,38569.254
+Western,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,16571.125
+Central,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,19462.821
+Bangkok & Vicinities,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,342145.823
+Whole Kingdom,Public administration and defence; compulsory social security,chain_volume_measures_ref2002,2023,537142.498
+Northeastern,Education,chain_volume_measures_ref2002,2023,98956.485
+Northern,Education,chain_volume_measures_ref2002,2023,55551.92
+Southern,Education,chain_volume_measures_ref2002,2023,44432.646
+Eastern,Education,chain_volume_measures_ref2002,2023,19444.317
+Western,Education,chain_volume_measures_ref2002,2023,14223.344
+Central,Education,chain_volume_measures_ref2002,2023,10680.356
+Bangkok & Vicinities,Education,chain_volume_measures_ref2002,2023,104490.642
+Whole Kingdom,Education,chain_volume_measures_ref2002,2023,344933.219
+Northeastern,Human health and social work activities,chain_volume_measures_ref2002,2023,42387.4
+Northern,Human health and social work activities,chain_volume_measures_ref2002,2023,34835.842
+Southern,Human health and social work activities,chain_volume_measures_ref2002,2023,28072.243
+Eastern,Human health and social work activities,chain_volume_measures_ref2002,2023,21147.945
+Western,Human health and social work activities,chain_volume_measures_ref2002,2023,10679.843
+Central,Human health and social work activities,chain_volume_measures_ref2002,2023,9940.559
+Bangkok & Vicinities,Human health and social work activities,chain_volume_measures_ref2002,2023,138225.5
+Whole Kingdom,Human health and social work activities,chain_volume_measures_ref2002,2023,284437.498
+Northeastern,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,6590.699
+Northern,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,5085.566
+Southern,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,3961.789
+Eastern,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,2781.415
+Western,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,2333.73
+Central,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,1544.048
+Bangkok & Vicinities,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,86272.207
+Whole Kingdom,"Arts, entertainment and recreation",chain_volume_measures_ref2002,2023,110315.65
+Northeastern,Other service activities,chain_volume_measures_ref2002,2023,10021.149
+Northern,Other service activities,chain_volume_measures_ref2002,2023,7940.91
+Southern,Other service activities,chain_volume_measures_ref2002,2023,6529.461
+Eastern,Other service activities,chain_volume_measures_ref2002,2023,10100.227
+Western,Other service activities,chain_volume_measures_ref2002,2023,2194.715
+Central,Other service activities,chain_volume_measures_ref2002,2023,3473.723
+Bangkok & Vicinities,Other service activities,chain_volume_measures_ref2002,2023,124183.454
+Whole Kingdom,Other service activities,chain_volume_measures_ref2002,2023,164098.601
+Northeastern,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,1013364.604
+Northern,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,713377.922
+Southern,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,804613.8
+Eastern,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,1798225.225
+Western,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,339457.048
+Central,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,562760.748
+Bangkok & Vicinities,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,5738346.77
+Whole Kingdom,GRP and GDP (CVMs),chain_volume_measures_ref2002,2023,10902396.538

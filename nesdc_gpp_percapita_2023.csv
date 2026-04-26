@@ -1,0 +1,86 @@
+﻿level,region_en,province_code,province_en,gpp_grp_million_thb,population_1000persons,percapita_thb,data_year,note
+region,Northeastern,,,1808413.236,18216.98108,99270.742,2023,preliminary (2023p) — source: NESDC
+region,Northern,,,1390863.244,11166.914711,124552.151,2023,preliminary (2023p) — source: NESDC
+region,Southern,,,1437591.045,9790.743146,146831.658,2023,preliminary (2023p) — source: NESDC
+region,Eastern,,,3229061.875,6499.113261,496846.53,2023,preliminary (2023p) — source: NESDC
+region,Western,,,636869.194,3655.812978,174207.269,2023,preliminary (2023p) — source: NESDC
+region,Central,,,881689.29,3168.698281,278249.682,2023,preliminary (2023p) — source: NESDC
+region,Bangkok and Vicinities,,,8570179.115,17542.662191,488533.555,2023,preliminary (2023p) — source: NESDC
+region,Whole Kingdom,,,17954666.999,70040.925647,256345.37,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0101,Khon Kaen,225107.209,1705.522133,131987.269,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0102,Udon Thani,124478.412,1244.725442,100004.714,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0103,Loei,62797.647,533.883356,117624.282,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0104,Nong Khai,48886.551,454.380472,107589.463,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0105,Mukdahan,31189.341,431.679838,72251.094,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0106,Nakhon Phanom,52183.768,539.471863,96731.214,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0107,Sakon Nakhon,71494.317,906.19081,78895.434,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0108,Kalasin,66076.565,779.346349,84784.596,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0109,Nakhon Ratchasima,343509.908,2491.65308,137864.26,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0110,Chaiyaphum,78665.373,915.230596,85951.424,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0111,Yasothon,34343.296,443.848673,77376.137,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0112,Ubon Ratchathani,143159.668,1726.99219,82895.376,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0113,Roi Et,85660.307,1038.416513,82491.28,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0114,Buri Ram,108467.398,1183.67836,91635.871,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0115,Surin,92775.244,1032.534337,89851.97,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0116,Maha Sarakham,69449.904,763.221928,90995.687,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0117,Si Sa Ket,83904.72,921.4274,91059.501,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0118,Nongbua Lamphu,32332.188,468.526418,69008.25,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0119,Amnat Chareon,24052.905,280.642265,85706.637,2023,preliminary (2023p) — source: NESDC
+province,Northeastern,0120,Bueng Kan,29878.516,355.609058,84020.685,2023,preliminary (2023p) — source: NESDC
+province,Northern,0201,Chiang Mai,277477.087,1791.040667,154925.062,2023,preliminary (2023p) — source: NESDC
+province,Northern,0202,Lampang,74063.986,687.486049,107731.62,2023,preliminary (2023p) — source: NESDC
+province,Northern,0203,Uttaradit,47996.3,397.585099,120719.564,2023,preliminary (2023p) — source: NESDC
+province,Northern,0204,Mae Hong Son,17035.774,243.967298,69828.106,2023,preliminary (2023p) — source: NESDC
+province,Northern,0205,Chiang Rai,116579.855,1131.975826,102987.937,2023,preliminary (2023p) — source: NESDC
+province,Northern,0206,Phrae,33088.485,362.318819,91324.223,2023,preliminary (2023p) — source: NESDC
+province,Northern,0207,Lamphun,91540.562,386.869522,236618.696,2023,preliminary (2023p) — source: NESDC
+province,Northern,0208,Nan,38937.646,434.983245,89515.277,2023,preliminary (2023p) — source: NESDC
+province,Northern,0209,Phayao,38953.399,356.472867,109274.513,2023,preliminary (2023p) — source: NESDC
+province,Northern,0210,Nakhon Sawan,124649.026,895.573154,139183.522,2023,preliminary (2023p) — source: NESDC
+province,Northern,0211,Phitsanulok,111462.753,892.527941,124884.329,2023,preliminary (2023p) — source: NESDC
+province,Northern,0212,Kam Phaeng Phet,121156.43,779.622432,155403.982,2023,preliminary (2023p) — source: NESDC
+province,Northern,0213,Uthai Thani,33380.685,269.31631,123946.022,2023,preliminary (2023p) — source: NESDC
+province,Northern,0214,Sukhothai,56287.239,603.887348,93208.177,2023,preliminary (2023p) — source: NESDC
+province,Northern,0215,Tak,65222.557,536.648117,121536.915,2023,preliminary (2023p) — source: NESDC
+province,Northern,0216,Phichit,52564.184,500.352418,105054.321,2023,preliminary (2023p) — source: NESDC
+province,Northern,0217,Phetchabun,90467.277,896.2876,100935.544,2023,preliminary (2023p) — source: NESDC
+province,Southern,0301,Phuket,193423.977,614.197579,314921.426,2023,preliminary (2023p) — source: NESDC
+province,Southern,0302,Surat Thani,220374.396,1171.079402,188180.575,2023,preliminary (2023p) — source: NESDC
+province,Southern,0303,Ranong,29000.165,291.956051,99330.584,2023,preliminary (2023p) — source: NESDC
+province,Southern,0304,Phangnga,56918.862,248.322933,229213.073,2023,preliminary (2023p) — source: NESDC
+province,Southern,0305,Krabi,75458.47,433.524782,174058.03,2023,preliminary (2023p) — source: NESDC
+province,Southern,0306,Chumphon,115567.832,501.772094,230319.37,2023,preliminary (2023p) — source: NESDC
+province,Southern,0307,Nakhon Si Thammarat,194668.835,1527.958543,127404.526,2023,preliminary (2023p) — source: NESDC
+province,Southern,0308,Songkhla,251479.85,1701.608266,147789.509,2023,preliminary (2023p) — source: NESDC
+province,Southern,0309,Satun,33151.63,300.526217,110311.94,2023,preliminary (2023p) — source: NESDC
+province,Southern,0310,Yala,52282.014,483.609469,108107.92,2023,preliminary (2023p) — source: NESDC
+province,Southern,0311,Trang,70829.672,633.844173,111746.191,2023,preliminary (2023p) — source: NESDC
+province,Southern,0312,Narathiwat,47353.356,739.836567,64005.157,2023,preliminary (2023p) — source: NESDC
+province,Southern,0313,Phatthalung,42800.491,491.406258,87097.977,2023,preliminary (2023p) — source: NESDC
+province,Southern,0314,Pattani,54281.495,651.100812,83368.802,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0401,Chon Buri,1188192.24,2005.944911,592335.429,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0402,Chachoengsao,450808.058,920.006975,490005.044,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0403,Rayong,1050952.278,1115.417712,942205.119,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0404,Trat,46197.397,280.263937,164835.323,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0405,Chanthaburi,145562.763,574.162858,253521.733,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0406,Nakhon Nayok,33478.646,264.789792,126434.806,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0407,Prachin Buri,258258.74,664.657805,388558.952,2023,preliminary (2023p) — source: NESDC
+province,Eastern,0408,Sa Kaew,55611.753,673.869271,82526.026,2023,preliminary (2023p) — source: NESDC
+province,Western,0501,Ratchaburi,187600.662,810.313212,231516.233,2023,preliminary (2023p) — source: NESDC
+province,Western,0502,Kanchanaburi,128134.364,833.869694,153662.334,2023,preliminary (2023p) — source: NESDC
+province,Western,0503,Phachuap Khiri Khan,107561.345,486.37085,221150.887,2023,preliminary (2023p) — source: NESDC
+province,Western,0504,Phetchaburi,78847.987,503.11715,156718.941,2023,preliminary (2023p) — source: NESDC
+province,Western,0505,Suphan Buri,105405.074,846.747093,124482.357,2023,preliminary (2023p) — source: NESDC
+province,Western,0506,Samut Songkhram,29319.762,175.394978,167164.207,2023,preliminary (2023p) — source: NESDC
+province,Central,0601,Saraburi,264242.089,766.509725,344734.163,2023,preliminary (2023p) — source: NESDC
+province,Central,0602,Singburi,27785.182,183.098844,151749.629,2023,preliminary (2023p) — source: NESDC
+province,Central,0603,Chai Nat,45036.455,286.565354,157159.456,2023,preliminary (2023p) — source: NESDC
+province,Central,0604,Ang Thong,32942.266,243.568778,135248.311,2023,preliminary (2023p) — source: NESDC
+province,Central,0605,Lop Buri,117740.517,770.395842,152831.195,2023,preliminary (2023p) — source: NESDC
+province,Central,0606,Phra Nakhon Sri Ayuthaya,393942.781,918.559738,428870.072,2023,preliminary (2023p) — source: NESDC
+province,Bangkok and Vicinities,0701,Bangkok Metropolis,6142909.53,9087.428581,675978.851,2023,preliminary (2023p) — source: NESDC
+province,Bangkok and Vicinities,0702,Samut Prakan,757502.468,2365.022756,320293.945,2023,preliminary (2023p) — source: NESDC
+province,Bangkok and Vicinities,0703,Pathum Thani,460312.31,1867.67134,246463.229,2023,preliminary (2023p) — source: NESDC
+province,Bangkok and Vicinities,0704,Samut Sakhon,410768.369,1098.147406,374055.766,2023,preliminary (2023p) — source: NESDC
+province,Bangkok and Vicinities,0705,Nakhon Pathom,398298.078,1257.906042,316635.794,2023,preliminary (2023p) — source: NESDC
+province,Bangkok and Vicinities,0706,Nonthaburi,400388.36,1866.486066,214514.519,2023,preliminary (2023p) — source: NESDC
